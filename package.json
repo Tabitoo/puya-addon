@@ -1,0 +1,14 @@
+{
+	"name": "stremio-addon-pruebasdk",
+	"version": "0.0.1",
+	"description": "esto es una prueba",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"name-to-imdb": "^3.0.2",
+		"needle": "^2.6.0",
+		"node-fetch": "^2.6.1",
+		"stremio-addon-sdk": "1.1.x"
+	}
+}
